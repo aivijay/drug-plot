@@ -1,14 +1,15 @@
 # data-vis
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure based data visualization tool to analyze drug data performance for a company from historical data.
 
 ## Usage
 
-FIXME
+Will be run as a standalone application
+
+lein run
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Vijay
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Apache License Version 2.0.
