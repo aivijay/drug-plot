@@ -1,12 +1,10 @@
 ;;; -*- Mode: Clojure; Coding: utf-8 -*-
 ;;;
-;;; rotate2.clj - an incanter/processing example of 'rotate'
+;;; proc-funcs-sample.clj - an incanter/processing example of 'rotate'
 ;;;
-;;; Copyright (C) 2011 by Yasuto TAKENAKA <y.takenaka@gmail.com>
+;;; Copyright (C) 2015 by Vijay <aivijay@gmail.com>
 ;;;
-;;;                       Time-stamp: <2011-06-03 20:17:30 yasuto>
-;;;                       License   :  http://en.wikipedia.org/wiki/MIT_License
-;;; movie -> http://www.youtube.com/watch?v=l76Uu1PfVH8
+;;;                       Time-stamp: <2015-08-02 22:32:30 aivijay>
 
 (ns data-vis.proc-funcs-sample
   (:use (incanter core processing))
